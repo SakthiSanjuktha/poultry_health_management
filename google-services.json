@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162571881578",
+    "project_id": "poultrix-c77a4",
+    "storage_bucket": "poultrix-c77a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162571881578:android:af5f58428fef0626e3ce13",
+        "android_client_info": {
+          "package_name": "com.example.poultrix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCif-cOXAki6iBvWIvmUnvZchqqtUMaUmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162571881578:android:77fd0d34c92b5a8be3ce13",
+        "android_client_info": {
+          "package_name": "com.example.poultry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCif-cOXAki6iBvWIvmUnvZchqqtUMaUmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
